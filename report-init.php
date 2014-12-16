@@ -20,7 +20,7 @@ if (!defined( 'REPORT_BASENAME' ) )
 
 
 
-
+ // HELLO WORLD
 // ACTIVATION HOOK, CREATE TABLES
 			function activate_reports() {
 				global $wpdb;
